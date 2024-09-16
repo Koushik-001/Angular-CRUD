@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+div {
+  font-family: 'Montserrat', sans-serif;
+}
+button {
+  font-family: 'Montserrat', sans-serif;
+  margin-right:10px
+}
+td{
+  padding: 10px;
+}
+.deleteButton{
+  border:0px;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+}
